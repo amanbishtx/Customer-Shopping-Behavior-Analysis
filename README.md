@@ -62,13 +62,14 @@ Built an **interactive Power BI dashboard** to visualize:
 
 ## Project Structure
 Customer-Shopping-Behavior-Analysis
+```
 │
 ├── data/
 ├── python/
 ├── sql_queries/
 ├── powerbi_dashboard/
 └── report/
-
+```
 
 ---
 
